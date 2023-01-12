@@ -1,0 +1,14 @@
+D:\TeatApp\Services\SqlEntity.Data\bin\Debug\net7.0\SqlEntity.Data.deps.json
+D:\TeatApp\Services\SqlEntity.Data\bin\Debug\net7.0\SqlEntity.Data.runtimeconfig.json
+D:\TeatApp\Services\SqlEntity.Data\bin\Debug\net7.0\SqlEntity.Data.dll
+D:\TeatApp\Services\SqlEntity.Data\bin\Debug\net7.0\SqlEntity.Data.pdb
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.csproj.AssemblyReference.cache
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.AssemblyInfoInputs.cache
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.AssemblyInfo.cs
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.csproj.CoreCompileInputs.cache
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.dll
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\refint\SqlEntity.Data.dll
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.pdb
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\SqlEntity.Data.genruntimeconfig.cache
+D:\TeatApp\Services\SqlEntity.Data\obj\Debug\net7.0\ref\SqlEntity.Data.dll
