@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rShlqPa3a7e2ExFgMZp07TZuWEtXP725giELOd7Wlto6L1KvPDN/97+62ZCLXC0A5pjtMzLEixaXc/U9JV16pQ==",
+  "dgSpecHash": "G3W2I4K1Sq9U4UO03M5/NTW3ph2uGdBUN3+rdWxhSowbLmek40YZ3pxg/K5tRB4zLhwfpE2VU2OXEUuuzyyPGQ==",
   "success": true,
-  "projectFilePath": "D:\\TeatApp\\Services\\Calculator.Service\\Calculator.Service.csproj",
+  "projectFilePath": "D:\\MSTestAppDemo\\Services\\Calculator.Service\\Calculator.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahmoud.hassan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mahmoud.hassan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

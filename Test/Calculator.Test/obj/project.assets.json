@@ -8910,11 +8910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TeatApp\\Test\\Calculator.Test\\Calculator.Service.Tests.csproj",
+      "projectUniqueName": "D:\\MSTestAppDemo\\Test\\Calculator.Test\\Calculator.Service.Tests.csproj",
       "projectName": "Calculator.Service.Tests",
-      "projectPath": "D:\\TeatApp\\Test\\Calculator.Test\\Calculator.Service.Tests.csproj",
+      "projectPath": "D:\\MSTestAppDemo\\Test\\Calculator.Test\\Calculator.Service.Tests.csproj",
       "packagesPath": "C:\\Users\\mahmoud.hassan\\.nuget\\packages\\",
-      "outputPath": "D:\\TeatApp\\Test\\Calculator.Test\\obj\\",
+      "outputPath": "D:\\MSTestAppDemo\\Test\\Calculator.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8936,8 +8936,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\TeatApp\\Services\\Calculator.Service\\Calculator.Service.csproj": {
-              "projectPath": "D:\\TeatApp\\Services\\Calculator.Service\\Calculator.Service.csproj"
+            "D:\\MSTestAppDemo\\Services\\Calculator.Service\\Calculator.Service.csproj": {
+              "projectPath": "D:\\MSTestAppDemo\\Services\\Calculator.Service\\Calculator.Service.csproj"
             }
           }
         }

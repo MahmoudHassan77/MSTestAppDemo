@@ -154,8 +154,6 @@ namespace Calculator.Service.Tests
                 Number2 = 50,
             };
             int result = 50;
-            StackTrace stackTrace = new StackTrace();
-            StackFrame? stackFrame = stackTrace.GetFrame(1);
 
 
             // Act
